@@ -1,0 +1,21 @@
+/* #van{
+    background-image: url(http://i.imgur.com/OAe1Z.jpg);
+    width:550px;
+    height:679px;
+    position:relative;
+}
+
+#click {
+    position:absolute;
+    left:240px;
+    top:120px;
+    width:150px;
+    height:150px;
+    border:2px solid yellow;
+}
+#click:hover {
+    background-color:rgba(255,0,0,.5);
+}
+
+
+<div id="kitten"><a href="#" id="click"/></div> */
